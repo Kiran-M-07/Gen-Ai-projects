@@ -1,7 +1,0 @@
-python-dotenv
-numpy
-pandas
-langchain
-langchain-groq
-chromadb
-
